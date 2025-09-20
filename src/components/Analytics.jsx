@@ -10,7 +10,7 @@ const Analytics = () => {
             />
             <div className='flex flex-col justify-center'>
                 <p className='text-[#00df9a] font-bold'>
-                    DATA ANALYTICS DASHBOARD
+                    DATA ANALYTICS DASHBOARD 
                 </p>
                 <h1 className='md:text-4xl sm:text-3xl text-2xl font-bold py-2'>
                     Manage Data Analytics Cantrally
